@@ -392,7 +392,7 @@ class _ExplorePageState extends State<ExplorePage> {
                 ),
                 const SizedBox(height: 20,),
                 Container(
-                  padding: const EdgeInsets.fromLTRB(20, 20, 20, 10),
+                  padding: const EdgeInsets.fromLTRB(15, 15, 15, 10),
                   color: Colors.grey[800],
                   height: 162,
                   width: MediaQuery.of(context).size.width,
